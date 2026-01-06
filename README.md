@@ -1,1 +1,1 @@
-# bre05-js_j1
+jour 1 : le Javascript
